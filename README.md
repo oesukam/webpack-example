@@ -1,6 +1,6 @@
 # dotenv-webpack-example
 
-A small demo project to show off `dotenv-webpack`.
+A small demo project to show-case `dotenv-webpack`.
 
 ## Installation
 
